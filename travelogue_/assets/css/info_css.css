@@ -1,0 +1,245 @@
+/*header*/
+
+#header {
+	margin: 0px 20px 0px 20px;
+}
+.logo { 
+	float:left; 
+	width: 115px; 
+	margin: -10px 5px 10px 0; 
+}
+.profile {
+	width: 29px; 
+	margin: -15px 0px -9px 0;
+}
+.glyphicon.glyphicon-align-justify {
+	font-size: 20px;
+	margin: -5px 0px 0px 0px;
+}
+.breadcrumb {
+	margin: 70px 20px 10px 20px;
+}
+#cari {
+	width: 500px;
+	margin-left: 70px
+}
+
+/*user*/
+#login-dp{
+    min-width: 250px;
+    padding: 14px 14px 0;
+    overflow:hidden;
+    background-color:rgba(255,255,255,.8);
+}
+
+/*index m*/
+#kolom_kiri {
+	margin-left: 20px;
+	background-color: #F0F8FF;
+}
+#btn-cari{
+	float: right;
+}
+#kolom_post1 {
+	margin:10px 0px 0px 245px;
+	width: 1100px;
+}
+#kolom_post2 {
+	margin:10px 0px 0px 260px;
+	width: 1100px;
+}
+#ljudul{
+	text-align: center;
+}
+
+/*footer*/
+.footer {
+	background-color: #F0F8FF;
+}
+#isifooter {
+	margin: 0px 20px 0px 20px;
+}
+#cs{
+	text-align:justify; 
+	width:37%;  
+	padding:8px; 
+	float: left; 
+	margin-right:20px; 
+}
+.cs {
+	float:left; width: 100px; 
+	margin: 0 20px 1px 0;
+}
+#sosmed {
+	
+	float: right; 
+	margin-top: 25px; 
+	
+}
+.icon {
+	margin-bottom: 1px;  
+	width: 70px;
+}
+#copyright {
+	height: 20px;
+}
+
+/*Profile*/
+#dprofile {
+	width: 300px;
+}
+#dp {
+	margin: 20px;
+}
+#rprofile {
+	background-color: #F0F8FF;
+	border: 3px dashed #00BFFF; 
+	border-radius: 15px;
+}
+
+/*pengaturan*/
+
+#pp {
+	margin: 0px -20px 10px 20px;
+}
+#kol-prof {
+	background-color: #F0F8FF;
+	border: 3px dashed #00BFFF; 
+	border-radius: 15px;
+}
+#kol-sec {
+	background-color: #F0F8FF;
+	border: 3px dashed #00BFFF; 
+	border-radius: 15px; 
+	margin-top: 30px
+}
+
+/*tambah*/
+#kol-tam {
+	background-color: #F0F8FF;
+	border: 3px dashed #00BFFF; 
+	border-radius: 15px;
+}
+
+/*edit hapus*/
+#bt {
+	float: right;
+}
+#dpost {
+	text-align: center;
+	background-color: #F0F8FF;
+	border: 3px dashed #00BFFF; 
+	border-radius: 15px;
+}
+#th {
+	text-align: center;
+}
+
+#tbt {
+	margin-left: 10px;
+}
+
+tbody {
+    display:block;
+    height:500px;
+    overflow:auto;
+}
+thead, tbody tr {
+    display:table;
+    width:100%;
+    table-layout:fixed;
+}
+thead {
+    width: calc( 100% - 1em )
+}
+
+/*post*/
+#pbt {
+	margin-left: 22px;
+}
+
+/*lihatpost*/
+#l-post1 {
+	background-color: #F0F8FF;
+	border: 3px dashed #00BFFF; 
+	border-radius: 15px;
+	width:900px;
+}
+#l-post2 {
+	background-color: #F0F8FF;
+	border: 3px dashed #00BFFF; 
+	border-radius: 15px;
+	width:200px;
+	margin-left: 30px;
+}
+
+/* Main carousel style */
+.carousel {
+    width: 450px;
+    height: 350px;
+    margin: 20px 0 20px 0;
+
+}
+
+
+
+/* Indicators list style */
+.article-slide .carousel-indicators {
+    bottom: -60px;
+    left: 0;
+    margin-left: 65px;
+    width: 100%;
+}
+/* Indicators list style */
+.article-slide .carousel-indicators li {
+    border: medium none;
+    border-radius: 0;
+    float: left;
+    height: 54px;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 5px !important;
+    margin-top: 0;
+    width: 100px;
+}
+/* Indicators images style */
+.article-slide .carousel-indicators img {
+    border: 2px solid #FFFFFF;
+    float: left;
+    height: 60px;
+    left: 0;
+    width: 100px;
+}
+/* Indicators active image style */
+.article-slide .carousel-indicators .active img {
+    border: 2px solid #428BCA;
+    opacity: 0.7;
+}
+#footer{
+	background: #FF0000;
+}
+#fkol1{
+	text-align:justify; 
+	width:37%;  
+	padding:8px; 
+	float: left; 
+	margin-right:20px; 
+}
+.cs {
+	float:left; width: 100px; 
+	margin: 0 20px 1px 0;
+}
+#fkol2 {
+	
+	float: right; 
+	margin-top: 25px; 
+	
+}
+.icon {
+	margin-bottom: 1px;  
+	width: 70px;
+}
+#fkol3 {
+	background-color: red; 
+	height: 20px;
+}
