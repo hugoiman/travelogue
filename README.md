@@ -12,9 +12,9 @@ cara menjalankan web ini:
 	(urutan directory : xampp/htdocs/travelogue_)
 3. start apache dan MySQL
 4. buka browser -> ketik : localhost/phpmyadmin
-5. buat database dengan nama : kost
-6. klik tab import -> masukan file kost.sql -> ok
-7. ketik url : localhost/kost
+5. buat database dengan nama : travelogue_
+6. klik tab import -> masukan file travelogue_.sql -> ok
+7. ketik url : localhost/travelogue_
 8. anda akan masuk ke halaman awal
 
 keterangan 
