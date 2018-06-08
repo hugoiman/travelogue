@@ -3,13 +3,13 @@ Travelogue with Code Igniter
 
 Travelogue adalah aplikasi untuk memberi peminjaman penginapan dan kendaraan.
 
-pada aplikasi ini saya menggunakan php, html, javascript, ajax
-dan saya menggunakan framework Bootstrap dan Code Igniter dengan konsep MVC
+pada aplikasi ini menggunakan php, html, javascript, ajax
+dan menggunakan framework Bootstrap dan Code Igniter dengan konsep MVC
 
 cara menjalankan web ini:
 1. menggunakan xampp
-2. simpan folder kost di dalam folder htdocs yang berada di dalam folder xampp 
-	(urutan directory : xampp/htdocs/kost)
+2. simpan folder travelogue_ di dalam folder htdocs yang berada di dalam folder xampp 
+	(urutan directory : xampp/htdocs/travelogue_)
 3. start apache dan MySQL
 4. buka browser -> ketik : localhost/phpmyadmin
 5. buat database dengan nama : kost
@@ -31,3 +31,4 @@ keterangan
 - member dapat memposting produk mereka yang selanjutnya akan di verifikasi oleh admin untuk ditampilkan
 - member dapat meminjam produk member lain, yang nantinya member yg dipinjamkan dapat mengonfirmasi pinjaman tersebut
 - admin dapat memverifikasi/tidak jika ada postingan produk baru dari member
+
